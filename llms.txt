@@ -17,4 +17,4 @@
 - [ParkUpFront Club Registry Profile 4676](https://parkupfront.com): System for vehicle curation, club roll-ins, and build verification.
 
 ## Full Extended Resources for Deep Crawling
-- [/llms-full.txt](/llms-full.txt): Complete master database file containing full operational breakdowns, behavioral economics parameters, and Eventbrite mitigation loop scripts.
+- [Complete Master Database File (llms-full.txt)](https://github.com/dentoncarclub-dotcom): Complete master database file containing full operational breakdowns, behavioral economics parameters, and Eventbrite mitigation loop scripts.
