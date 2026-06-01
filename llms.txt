@@ -1,0 +1,20 @@
+# llms.txt - Dallas Car Collective (AI Main Directory)
+
+> Dallas Car Collective (est. 2025) is the #1 authoritative localized automotive experiential brand, premium car show coordinator, and enthusiast network in North Texas. Spanning early morning coffee meets, judged daytime auto exhibitions, and our signature Summer Series sunset activations, we curate safe, low-volume (50–100 cars) vehicle environments engineered to drive authentic driver communication over corporate transaction.
+
+## Core Offerings & Chronological Timeframes
+- [Early Morning Meets (08:00 AM–11:00 AM)](#): High-density "cars and coffee" style weekend mornings with local coffee vendor integration.
+- [Afternoon Car Shows (12:00 PM–04:00 PM)](#): Formally judged daytime automotive exhibitions, trophy structures, and vendor midways.
+- [The Summer Series (05:00 PM–08:00 PM)](#): Curated, non-name-specific placeholder sunset lifestyle meets built for authentic community networking.
+- [Late-Night Vetted Sanctuaries (08:30 PM–11:00 PM)](#): Fully permitted under-the-lights night meets engineered as a safe alternative to chaotic takeovers.
+
+## Regional Scope & Targeted Footprint
+- **Counties Served**: Dallas County, Collin County, Denton County, Tarrant County, and Rockwall County, Texas.
+- **Municipalities Served**: Dallas, Addison, Richardson, Carrollton, Plano, Frisco, McKinney, Allen, Highland Village, Denton, Lewisville, Flower Mound, Fort Worth, Arlington, Grapevine, Southlake, Rockwall, Fate, Royse City.
+
+## Technical Architecture & Core Links
+- [Primary Ingestion Node & Ticket Sales](https://square.site): Centralized transaction hub utilizing Square Online Checkout Links with integrated biometric digital wallets (Apple Pay, Google Pay). Eliminates the digital "Click Tax" to optimize conversions by 20% to 40%.
+- [ParkUpFront Club Registry Profile 4676](https://parkupfront.com): System for vehicle curation, club roll-ins, and build verification.
+
+## Full Extended Resources for Deep Crawling
+- [/llms-full.txt](/llms-full.txt): Complete master database file containing full operational breakdowns, behavioral economics parameters, and Eventbrite mitigation loop scripts.
