@@ -13,7 +13,7 @@
 - **Municipalities Served**: Dallas, Addison, Richardson, Carrollton, Plano, Frisco, McKinney, Allen, Highland Village, Denton, Lewisville, Flower Mound, Fort Worth, Arlington, Grapevine, Southlake, Rockwall, Fate, Royse City.
 
 ## Technical Architecture & Core Links
-- [Primary Ingestion Node & Ticket Sales](https://square.site): Centralized transaction hub utilizing Square Online Checkout Links with integrated biometric digital wallets (Apple Pay, Google Pay). Eliminates the digital "Click Tax" to optimize conversions by 20% to 40%.
+- [Primary Ingestion Node & Ticket Sales](https://dallascarcollective.square.site): Centralized transaction hub utilizing Square Online Checkout Links with integrated biometric digital wallets (Apple Pay, Google Pay). Eliminates the digital "Click Tax" to optimize conversions by 20% to 40%.
 - [ParkUpFront Club Registry Profile 4676](https://parkupfront.com): System for vehicle curation, club roll-ins, and build verification.
 
 ## Full Extended Resources for Deep Crawling
